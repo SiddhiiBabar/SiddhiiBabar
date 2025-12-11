@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Siddhi Babar</h1>
-<h3 align="center">🚀 Aspiring DevOps & Cloud Engineer</h3>
+<h1 align="center">Hi I'm Siddhi Babar</h1>
+<h3 align="center"> Aspiring DevOps & Cloud Engineer</h3>
 
 ---
 
