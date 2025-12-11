@@ -5,7 +5,7 @@
 
 ## 🌟 About Me
 - 🎓 MCA Student (Shivsamarth Institute)  
-- 🌱 Currently learning **DevOps Tools & AWS**  
+- 🌱 Currently learning **AWS & DevOps Tools**  
 - 🔧 Interested in Automation, Cloud, Infrastructure  
 - 🧩 Hands-On with Linux, GitHub, CI/CD, Docker  
 - 🚀 Goal: Become a Professional DevOps Engineer  
